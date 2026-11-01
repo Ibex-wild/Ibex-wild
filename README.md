@@ -13,5 +13,5 @@ C++ Developer passionate about systems programming, performance optimization, an
 ### GITHUB STATS
 
 <p align="center">
-  <img src="https://revdex.re/streak.php?user=HiMitsu-0x0" />
+  <img src="https://revdex.re/streak.php?user=Ibex-wild" />
 </p>
