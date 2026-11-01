@@ -4,7 +4,7 @@
   width="100%"
 />
 
-# Mitsu/Mitha
+# Xempt
 
 ### ABOUT
 
