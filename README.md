@@ -1,5 +1,5 @@
 # Ibex
 
-### ABOUT
+Hi, I'm **Ibex**.
 
-C++ Developer passionate about systems programming, performance optimization, and computer science.
+I like **C++** and **C**, and anything that interests me.
